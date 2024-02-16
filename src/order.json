@@ -1,0 +1,30 @@
+{
+  "order": [
+    {
+      "id": "2dd7",
+      "FirstName": "Saurabh",
+      "address": "Street No-1",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipcode": "110092",
+      "phone": "7483089218",
+      "email": "abc@gmail.com",
+      "foodName": "Burger",
+      "quantity": "5"
+    },
+    
+    {
+      "id": "c85d",
+      "FirstName": "Saurabh",
+      "address": "Street No-1",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipcode": "110092",
+      "phone": "07483089218",
+      "email": "abc@gmail.com",
+      "foodName": "Burger",
+      "quantity": "10",
+      "totalPrice": 125
+    }
+  ]
+}
